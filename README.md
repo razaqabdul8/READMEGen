@@ -5,7 +5,7 @@
    
 ## Description
   
-🔍 A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the dist directory.
+🔍 A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the dist directory and the one created in the video demonstrating functionality of the app can be found in that folder fully rendered.
   
 🎥 The full movie file showing functionality of the application can be found [here](./src/Functionality.mp4)  
   
